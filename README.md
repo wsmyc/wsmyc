@@ -3,7 +3,7 @@
 **AI Master's Student | AI Developer | Web & Mobile Developer | Cybersecurity Enthusiast | Algeria**  
 Learning by building. Breaking things. Fixing them. Repeating.
 
-📧 noureddine.yahiacherif.info@gmail.com | [LinkedIn](https://linkedin.com/in/noureddine-yahia-cherif-7b4b44359)
+📧 noureddine.yahiacherif.info@gmail.com | [LinkedIn](https://linkedin.com/in/noureddine-yahia-cherif-7b4b44359) |
 Personal Website (old still undergoing work) : [Noureddine Yahia Cherif](https://dancing-dolphin-a6a76e.netlify.app/)
 
 ---
