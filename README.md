@@ -1,6 +1,6 @@
 # 👋 Noureddine Yahia Cherif
 
-**AI Master's Student | Algeria**  
+**AI Master's Student | AI Developer | Web & Mobile Developer | Cybersecurity Enthusiast | Algeria**  
 Learning by building. Breaking things. Fixing them. Repeating.
 
 📧 noureddine.yahiacherif.info@gmail.com | [LinkedIn](https://linkedin.com/in/noureddine-yahia-cherif-7b4b44359)
@@ -28,19 +28,20 @@ Learning by building. Breaking things. Fixing them. Repeating.
 
 | Project | What it is | Status |
 |---------|-----------|--------|
-| [MCTNet](https://github.com/wsmyc/MCTNet-crop-mapping) | Reimplementing a 2024 paper for satellite crop classification | WIP, learning TF/GEE |
+| [MCTNet](https://github.com/wsmyc/MCTNet-crop-mapping) | Reimplementing a 2024 paper for satellite crop classification by Wang et al. (2024) | WIP, learning TF/GEE |
 | Smart Restaurant | Bachelor's capstone: IoT + recommender system with PyTorch | Done, led team of 4 |
 | Code Reviewer | Playing with Hugging Face transformers for Python analysis | Experiment |
 | C Compiler | Built with Flex/Bison to understand how things work | Done, never used again |
+|Java Sliding Puzzle | Used JavaFX just to try "jeu du taquin" and the GUI with Java| Done, sometimes i play it |
 
 ---
 
 ## Currently
 
-- Reading papers I barely understand
-- Writing code that sometimes works
+- Reading papers I barely understand by authors i look up to
+- Writing code that for the most part works
 - Looking for remote part-time gigs to learn from people smarter than me
 
 ---
 
-*Mostly figuring it out as I go.*
+*Figuring it out as I go.*
