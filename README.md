@@ -48,7 +48,7 @@ Learning by building. Breaking things. Fixing them. Repeating.
 | [Code Reviewer](https://github.com/wsmyc/AI-Code-Reviewer) | Playing with Hugging Face transformers for Python analysis | Experiment |
 | C Compiler | Built with Flex/Bison to understand how things work | Done, never used again (lost the source folder)|
 |[Java Sliding Puzzle](https://github.com/wsmyc/slidingPuzzle) | Used JavaFX just to try "jeu du taquin" and the GUI with Java| Done, sometimes i play it |
-|[Personal reactive Website](https://github.com/wsmyc/my-website) | Built with vanilla HTML5 CSS3 and JS for handeling mediaqueries | Done, and untouched since 2024 |
+|[Personal Website](https://github.com/wsmyc/my-website) | Built with vanilla HTML5 CSS3 and JS for handeling mediaqueries | Done, and untouched since 2024 |
 
 ---
 
