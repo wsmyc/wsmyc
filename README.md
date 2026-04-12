@@ -47,6 +47,7 @@ Personal Website (old still undergoing work) : [Noureddine Yahia Cherif](https:/
 | [MCTNet](https://github.com/wsmyc/MCTNet-crop-mapping) | Reimplementing a 2024 paper for satellite crop classification by Wang et al. (2024) | WIP, learning TF/GEE |
 | [Smart Restaurant](https://github.com/wsmyc/PFE-2025) | Bachelor's capstone: IoT + recommender system with PyTorch | Done, led team of 4 |
 | [Code Reviewer](https://github.com/wsmyc/AI-Code-Reviewer) | Playing with Hugging Face transformers for Python analysis | Experiment |
+| [Task Manager](https://github.com/wsmyc/Task-Manager) | A console level task manager built fully using C language for my DSA class | Done, full readme.md available |
 | C Compiler | Built with Flex/Bison to understand how things work | Done, never used again (lost the source folder)|
 |[Java Sliding Puzzle](https://github.com/wsmyc/slidingPuzzle) | Used JavaFX just to try "jeu du taquin" and the GUI with Java| Done, sometimes i play it |
 |[Personal Website](https://github.com/wsmyc/my-website) | Built with vanilla HTML5 CSS3 and JS for handeling mediaqueries | Done, and untouched since 2024 |
