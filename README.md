@@ -28,7 +28,7 @@ Personal Website (old still undergoing work) : [Noureddine Yahia Cherif](https:/
 
 | Project | What it is | Status |
 |---------|-----------|--------|
-| [MCTNet](https://github.com/wsmyc/MCTNet-crop-mapping) | Reimplementing a 2024 paper for satellite crop classification by Wang et al. (2024) | Working on it, learning Pytorch/GEE |
+| [MCTNet](https://github.com/wsmyc/MCTNet-crop-mapping-Pytorch) | Reimplementing a 2024 paper for satellite crop classification by Wang et al. (2024) | Working on it, learning Pytorch/GEE |
 | [Smart Restaurant](https://github.com/wsmyc/PFE-2025) | Bachelor's capstone: IoT + recommender system with PyTorch | Done, led team of 4 |
 | [Code Reviewer](https://github.com/wsmyc/AI-Code-Reviewer) | Playing with Hugging Face transformers for Python analysis | Experiment |
 | [Task Manager](https://github.com/wsmyc/Task-Manager) | A console level task manager built fully using C language for my DSA class | Done, full readme.md available |
